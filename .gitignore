@@ -1,0 +1,6 @@
+workspace-MacBook Pro.code-workspace
+
+venv/
+results/
+
+push.sh
