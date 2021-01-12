@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-GIT_USER='penteor'
+GIT_USER='cosminpopesq'
 GIT_BRANCH='main'
 
 echo '[*] Saving VIRTUALENV libraries in requirements.txt file'
