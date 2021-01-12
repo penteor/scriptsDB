@@ -5,4 +5,4 @@ push.sh
 # Folders
 venv/
 results/
-.vscode
+.vscode/

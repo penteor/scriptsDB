@@ -13,6 +13,6 @@ echo '[*] Push code to Branch:' $GIT_BRANCH
 unixtime=$(date +%s)
 git add --all
 git commit -m $unixtime
-git push -f origin $GIT_BRANCH
+git push -u origin $GIT_BRANCH
 git tag $unixtime
 git push --tags

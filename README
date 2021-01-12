@@ -1,3 +1,4 @@
 # Scripts used for Penetration Testing
 
 - ip-utils.py = Convert IP addresses from CIDR,  RANGE and LIST to CIDR,  RANGE and LIST
+- reverselookup.py = Reverse Lookup tool will do a reverse IP lookup to locate a dns PTR record
