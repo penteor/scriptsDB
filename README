@@ -1,3 +1,3 @@
 # Scripts used for Penetration Testing
 
-- ip-utils.py - Convert IP addresses from CIDR,  RANGE and LIST
+- ip-utils.py = Convert IP addresses from CIDR,  RANGE and LIST to CIDR,  RANGE and LIST

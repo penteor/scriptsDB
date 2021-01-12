@@ -1,5 +1,7 @@
+# Files
 workspace-MacBook Pro.code-workspace
+push.sh
 
+# Folders
 venv/
 results/
-push.sh
