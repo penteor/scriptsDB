@@ -101,4 +101,4 @@ def write_file(FileName, Data):
 FileName = './results/ips.list'
 CIDRs = read_file(FileName)
 SortedIPs = SortIP(cidrs2ip(CIDRs))
-write_file('./results/IPS.lst', SortedIPs)
+write_file('', SortedIPs)
